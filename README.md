@@ -1,3 +1,3 @@
 # create-pixi3d-app
 
-Boilerplate project that uses Webpack, TypeScript and the latest PixiJS.
+Boilerplate project using Pixi3D, TypeScript and Webpack
